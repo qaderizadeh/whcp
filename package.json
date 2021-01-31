@@ -1,0 +1,26 @@
+{
+  "name": "whcp",
+  "version": "1.0.0",
+  "description": "Web Hosting Control Panel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qaderizadeh/whcp.git"
+  },
+  "keywords": [
+    "whcp"
+  ],
+  "author": "Qaderizadeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qaderizadeh/whcp/issues"
+  },
+  "homepage": "https://github.com/qaderizadeh/whcp#readme",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "vhost": "^3.0.2"
+  }
+}

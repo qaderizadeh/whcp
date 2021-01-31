@@ -1,0 +1,14 @@
+[
+  {
+    "host": "parsecard.com",
+    "root": "/home/parsetick/nodejs",
+    "key": "/home/parsetick/nodejs/privkey.pem",
+    "cert": "/home/parsetick/nodejs/fullchain.pem"
+  },
+  {
+    "host": "capila.ir",
+    "root": "/home/capila/nodejs2",
+    "key": "",
+    "cert": ""
+  }
+]
