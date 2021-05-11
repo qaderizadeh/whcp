@@ -7,8 +7,14 @@
   },
   {
     "host": "capila.ir",
-    "root": "/home/capila/nodejs2",
-    "key": "",
-    "cert": ""
+    "root": "/home/capila/nodejs-app",
+    "key": "/home/capila/nodejs-app/privkey.pem",
+    "cert": "/home/capila/nodejs-app/fullchain.pem"
+  },
+  {
+    "host": "api.capilapay.com",
+    "root": "/home/capilapay/api",
+    "key": "/home/capilapay/api/privkey.pem",
+    "cert": "/home/capilapay/api/fullchain.pem"
   }
 ]
